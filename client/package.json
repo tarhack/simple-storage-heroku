@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "browserslist": "^4.17.0",
+    "caniuse-lite": "^1.0.30001257",
     "react": "16.11.0",
     "react-dom": "16.11.0",
     "react-scripts": "^4.0.3",
+    "serve": "latest",
     "web3": "1.2.2"
   },
   "workspaces": [
