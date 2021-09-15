@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/simple-storage-heroku/static/css/main.35b04435.chunk.css",
-    "main.js": "/simple-storage-heroku/static/js/main.d2f15226.chunk.js",
-    "main.js.map": "/simple-storage-heroku/static/js/main.d2f15226.chunk.js.map",
+    "main.js": "/simple-storage-heroku/static/js/main.0ad096aa.chunk.js",
+    "main.js.map": "/simple-storage-heroku/static/js/main.0ad096aa.chunk.js.map",
     "runtime-main.js": "/simple-storage-heroku/static/js/runtime-main.bbfe25e4.js",
     "runtime-main.js.map": "/simple-storage-heroku/static/js/runtime-main.bbfe25e4.js.map",
     "static/js/2.ac71023d.chunk.js": "/simple-storage-heroku/static/js/2.ac71023d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.bbfe25e4.js",
     "static/js/2.ac71023d.chunk.js",
     "static/css/main.35b04435.chunk.css",
-    "static/js/main.d2f15226.chunk.js"
+    "static/js/main.0ad096aa.chunk.js"
   ]
 }
