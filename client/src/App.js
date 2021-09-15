@@ -36,7 +36,7 @@ class App extends Component {
   };
 
   runExample = async () => {
-    const { accounts, contract } = this.state;
+    const { contract } = this.state;
 
     // Get the value from the contract to prove it worked.
     const response = await contract.methods.get().call();

@@ -2,7 +2,6 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tarhack.github.io/simple-storage-heroku/",
   "dependencies": {
     "browserslist": "^4.17.0",
     "caniuse-lite": "^1.0.30001257",
@@ -10,7 +9,7 @@
     "react": "16.11.0",
     "react-dom": "16.11.0",
     "react-scripts": "^4.0.3",
-    "serve": "latest",
+    "serve": "12.0.1",
     "web3": "1.2.2"
   },
   "workspaces": [
